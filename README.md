@@ -1,2 +1,2 @@
 # Change-Label-Image-In-Tkinter
-I will show you the code of changing the Label Image in tkinter
+The code of changing the Label Image in tkinter is in Label_Image_Change
